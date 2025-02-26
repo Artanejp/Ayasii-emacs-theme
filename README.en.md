@@ -1,7 +1,11 @@
-<H2>**Color theme for Emacs like a "Ayasii World" (あやしいわーるど)**</H2>
+# Color theme for Emacs like a "Ayasii World" (あやしいわーるど)
+
 <div align="right">
-<H3>Feb 26, 2025<BR>
-K.Ohta <whatisthis.sowhat _at_ gmail.com></BR></H3>
+<B> Feb 26, 2025
+ 
+[ Kyuma Ohta (whatisthis.sowhat _at_ gmail.com) ](mailto:whatisthis.sowhat@gmail.com) 
+
+</B>
 </div>
 
 ## *If you can read Japanese, [english writing is here](/README.md/).*
@@ -17,7 +21,7 @@ WEB forum, "あやしいわーるど" (Ayasii wa-rudo / Ayasii World).
 Source Code
 =====
 
-TBD.
+[ https://github.com/Artanejp/Ayasii-emacs-theme/ ](https://github.com/Artanejp/Ayasii-emacs-theme/)
 
 Usage
 =====
