@@ -1,7 +1,10 @@
-<H2>**あやしいわーるど風のEmacsカラーテーマ**</H2>
+# あやしいわーるど風のEmacsカラーテーマ
+
 <div align="right">
-<H3>Feb 26, 2025<BR>
-K.Ohta <whatisthis.sowhat _at_ gmail.com></BR></H3>
+<B>Feb 26, 2025
+ 
+[Kyuma Ohta ( whatisthis.sowhat _at_ gmail.com ) ](mailto:whatisthis.sowhat@gmail.com)
+</B>
 </div>
 
 ## *If you can't read Japanese, [english writing is here](/README.en.md/).*
@@ -17,7 +20,7 @@ GNU Emacs のテーマにしてみました。
 ソースコード
 =====
 
-TBD.
+[https://github.com/Artanejp/Ayasii-emacs-theme/](https://github.com/Artanejp/Ayasii-emacs-theme/)
 
 使い方
 =====
