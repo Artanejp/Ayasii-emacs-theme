@@ -8,7 +8,7 @@
 </B>
 </div>
 
-## *If you can read Japanese, [english writing is here](/README.md/).*
+## *If you can read Japanese, [japanese writing is here](/README.md/).*
 
 About
 =====
