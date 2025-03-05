@@ -16,7 +16,22 @@
 GNU Emacs のテーマにしてみました。
 
  プログラミングとか物書きとかで、目が疲労しにくいような配色を心がけてみました。
- 
+
+スクリーンショットなど
+=====
+<img src="images/ScreenShot-lisp-mode.jpg" width="640" ALT="Screenshot of LISP MODE">
+
+<img src="images/ScreenShot-c++mode-1.jpg" width="640" ALT="Screenshot of C++ MODE (1)">
+
+<img src="images/ScreenShot-c++mode-2.jpg" width="640" ALT="Screenshot of C++ MODE (2)">
+
+<img src="images/ScreenShot-c++mode-3.jpg" width="640" ALT="Screenshot of C++ MODE (3)">
+
+<img src="images/ScreenShot-c++mode-4.jpg" width="640" ALT="Screenshot of C++ MODE (4)">
+
+<img src="images/ScreenShot-scratch.jpg" width="640" ALT="Screenshot of *scratch*">
+
+
 ソースコード
 =====
 
